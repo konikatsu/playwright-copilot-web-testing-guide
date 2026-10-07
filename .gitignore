@@ -13,6 +13,12 @@ auth.json
 storage-state*.json
 local-target.md
 local-target.json
+.npmrc
+.mcp.json
+.vscode/mcp.json
+mcp.local.json
+*.pem
+*.crt
 
 # Editor and operating system files
 .DS_Store
