@@ -1,0 +1,19 @@
+# Local dependencies and generated test artifacts
+node_modules/
+playwright-report/
+test-results/
+blob-report/
+
+# Local authentication and target information
+.env
+.env.*
+playwright/.auth/
+.auth/
+auth.json
+storage-state*.json
+local-target.md
+local-target.json
+
+# Editor and operating system files
+.DS_Store
+Thumbs.db
